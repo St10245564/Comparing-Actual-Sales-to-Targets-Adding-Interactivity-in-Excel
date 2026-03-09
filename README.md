@@ -73,7 +73,7 @@ The dashboard enables executives and managers to:
 1. **Clone the repository**
    ```bash
    git https://github.com/St10245564/Comparing-Actual-Sales-to-Targets-Adding-Interactivity-in-Excel.git
-   cd week8-sales-dashboard
+   cd Comparing-Actual-Sales-to-Targets-Adding-Interactivity-in-Excel
    ```
 
 2. **Open the Excel workbook**
