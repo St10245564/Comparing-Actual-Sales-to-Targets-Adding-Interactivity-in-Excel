@@ -72,7 +72,7 @@ The dashboard enables executives and managers to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/week8-sales-dashboard.git
+   git https://github.com/St10245564/Comparing-Actual-Sales-to-Targets-Adding-Interactivity-in-Excel.git
    cd week8-sales-dashboard
    ```
 
