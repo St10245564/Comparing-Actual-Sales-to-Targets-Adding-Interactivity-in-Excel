@@ -8,7 +8,7 @@
 
 ## 📸 Dashboard Preview
 
-![Multi-Year Sales vs Target Dashboard](./assets/dashboard_preview.png)
+<img width="887" height="636" alt="56" src="https://github.com/user-attachments/assets/4c84b90c-b88f-42d6-b60e-63e90bb60ab6" />
 
 > *Dashboard showing KPI cards, regional comparisons, monthly trends, variance analysis, and YoY growth by territory for 2003–2005.*
 
@@ -38,45 +38,8 @@ The dashboard enables executives and managers to:
 - **Actual vs Target by Region** — Clustered column chart (EMEA, NA, APAC, Japan)
 - **Actual vs Target by Month (2+ Years)** — Line chart showing monthly trends
 - **Variance by Product Category** — Horizontal bar chart, sorted descending
-
-#### 🎛️ Slicers
-- **Year** (2003, 2004, 2005)
-- **Region** (APAC, EMEA, Japan, NA)
-- **Product Category** (Classic Cars, Motorcycles, Planes, Ships, Trains, Trucks & Buses, Vintage Cars)
-- **Month** (Timeline slicer)
-
-#### 📝 Insight Text Box
-> **Which regions are consistently below target?**  
-> APAC, Japan, and NA.
->
-> **Which months show strong recovery or decline?**  
-> - Jan 2003–Aug 2000: Strong decline until recovery in September  
-> - March 2004–July 2004: Strong decline  
-> - April 2005: Showed strong decline
-
----
-
-### Q4 — What-If & Scenario Analysis
-
-Two scenarios simulated using **Excel Scenario Manager**:
-
-| Scenario | Region | Change | Impact on Revenue | Impact on % Target |
-|----------|--------|--------|-------------------|-------------------|
-| **Scenario A** | EMEA | +5% Price Increase | +R142,000 approx. | +1.4% |
-| **Scenario B** | NA | +10% Volume Increase | +R290,000 approx. | +2.8% |
-
 **Recommendation:**  
 ✅ **Scenario B (10% Volume Increase in NA)** is recommended for the next quarter. NA already shows strong baseline performance, and a volume-driven increase produces a higher revenue uplift and brings the overall % of Target Achieved closer to 100% without impacting price competitiveness in the market.
-
----
-
-### Q5 — Documentation
-
-A **1-page User Guide** (`docs/User_Guide.pdf`) is included, with screenshots explaining how a manager can:
-
-1. **Refresh the data** — Go to `Data > Refresh All` after updating the CSV source file
-2. **Update the Targets table** — Open `data/sales_targets.xlsx`, edit values, save, then refresh
-3. **Use slicers** — Click Year, Region, or Product buttons to filter; use the Timeline to filter by month
 
 ---
 
